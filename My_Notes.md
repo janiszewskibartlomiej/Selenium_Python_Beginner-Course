@@ -22,3 +22,4 @@
  
 - tworzy klase suit case i odpala wszytskie testy 
 - nazwa pliku musi sie zaczynac od 'test_'
+- odpalenie -> `nosetests`
